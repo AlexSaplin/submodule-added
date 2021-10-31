@@ -1,0 +1,3 @@
+[submodule "contrib-submodule"]
+	path = contrib-submodule
+	url = https://github.com/AlexSaplin/contrib-submodule
